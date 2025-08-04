@@ -1,0 +1,25 @@
+# Enhanced Patient Management System Requirements
+
+# FastAPI and server dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Data generation and manipulation
+faker==20.1.0
+pandas==2.1.4
+
+# Streamlit and UI dependencies
+streamlit==1.28.2
+requests==2.31.0
+
+# Visualization libraries
+plotly==5.17.0
+
+# Additional utilities
+python-multipart==0.0.6
+python-json-logger==2.0.7
+
+# Optional: For better performance with large datasets
+numpy==1.24.4
+scipy==1.11.4
